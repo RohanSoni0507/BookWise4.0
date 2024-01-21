@@ -155,7 +155,7 @@ function listBooks(books) {
         const linkCell = row.insertCell(1);
 
         nameCell.textContent = book.name;
-        linkCell.innerHTML = `<a href="${book.pdfLink}" target="_blank">Download PDF</a>`;
+        linkCell.innerHTML = `<a href="${book.pdfLink}" target="_blank">Download</a>`;
     }
 }
 
@@ -328,6 +328,12 @@ const subjects = [
             pdfLink: "books/tt.pdf"
         },
     ] },
+    { name: 'Xtras (Movies and Entertainment)', image: 'images/movie.jpg', books: [
+        {
+            name: "Join our Telegram Channel for Latest Movie and Series ",
+            pdfLink: "books/join.pdf"
+        },
+    ] },
 ];
 function createSubjectCards() {
     const subjectCardsContainer = document.querySelector('.subject-cards');
@@ -364,7 +370,7 @@ function displayBooks(books) {
     const nameHeader = headerRow.insertCell(0);
     const linkHeader = headerRow.insertCell(1);
     nameHeader.textContent = 'Book Name';
-    linkHeader.textContent = 'PDF Link';
+    linkHeader.textContent = 'Link';
 
     books.forEach((book) => {
         const row = table.insertRow();
@@ -372,7 +378,7 @@ function displayBooks(books) {
         const linkCell = row.insertCell(1);
 
         nameCell.textContent = book.name;
-        linkCell.innerHTML = `<a href="${book.pdfLink}" target="_blank">Download PDF</a>`;
+        linkCell.innerHTML = `<a href="${book.pdfLink}" target="_blank">Download</a>`;
     });
 
     booksList.appendChild(table);
