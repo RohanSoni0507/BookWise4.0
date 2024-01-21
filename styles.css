@@ -14,6 +14,12 @@ body {
     padding: 10px;
 }
 
+footer {
+    margin-top: 9.55em;
+    padding: 1px;
+    text-align: center;
+}
+
 .indexcontainer {
     margin-top: 5em;
     margin-left: 0px;
@@ -139,7 +145,7 @@ footer a {
 }
 
 .developer-image img {
-    max-width: 150px;
+    max-width: 200px;
     border-radius: 5px;
 }
 
