@@ -16,6 +16,10 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Database Management System : 21CSC205P -  DBMS syllabus",
+        pdfLink: "books/dbmssys.pdf"
+    },
+    {
         name: "Design and Analysis of Algorithms (Lab) : List of Lab Experiments",
         pdfLink: "books/list.pdf"
     },
@@ -265,6 +269,10 @@ const subjects = [
         {
             name: "Youtube Playlist Recommendation",
             pdfLink: "books/dbmsr.pdf"
+        },
+        {
+            name: "21CSC205P -  DBMS syllabus",
+            pdfLink: "books/dbmssys.pdf"
         },
     ] },
     { name: 'Social Engineering', image: 'images/se.jpg', books: [
