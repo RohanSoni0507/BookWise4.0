@@ -346,6 +346,62 @@ const subjects = [
             pdfLink: "books/cctsr.pdf"
         },
     ] },
+    { name: 'Course Curriculum', image: 'images/cc.jpg', books: [
+        {
+            name: "All Subjects Syllabus 2021",
+            pdfLink: "books/ass.pdf"
+        },
+        {
+            name: "B.Tech 2021 regulations",
+            pdfLink: "books/btr.pdf"
+        },
+        {
+            name: "CSE Year Wise Curriculum 2021",
+            pdfLink: "books/cywc.pdf"
+        },
+        {
+            name: "Engineering and Technology handbook 2023-2024",
+            pdfLink: "books/eath.pdf"
+        },
+        {
+            name: "Events and Holidays 2023-2024",
+            pdfLink: "books/eah.pdf"
+        },
+    ] },
+    { name: 'Youtube Playlists Recommendation', image: 'images/you.jpg', books: [
+        {
+            name: "Probability and Queueing Theory : Youtube Playlist Recommendation",
+            pdfLink: "books/pqtr.pdf"
+        },
+        {
+            name: "Design and Analysis of Algorithms : Youtube Playlist Recommendation",
+            pdfLink: "books/daar.pdf"
+        },
+        {
+            name: "Internet of Things : Youtube Playlist Recommendation",
+            pdfLink: "books/iotr.pdf"
+        },
+        {
+            name: "Database Management System : Youtube Playlist Recommendation",
+            pdfLink: "books/dbmsr.pdf"
+        },
+        {
+            name: "Social Engineering : Youtube Video Recommendation",
+            pdfLink: "books/ser.pdf"
+        },
+        {
+            name: "Artificial Intelligence : Youtube Playlist Recommendation",
+            pdfLink: "books/air.pdf"
+        },
+        {
+            name: "UHV-II: Universal Human Values – Understanding Harmony and Ethical Human Conduct : Youtube Playlist Recommendation",
+            pdfLink: "books/uhvr.pdf"
+        },
+        {
+            name: "Critical and Creative Thinking Skills : Youtube Video Recommendation",
+            pdfLink: "books/cctsr.pdf"
+        },
+    ] },
     { name: 'Time Table', image: 'images/tt.jpg', books: [
         {
             name: "Time Table - 4th Semester",
