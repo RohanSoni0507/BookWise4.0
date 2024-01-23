@@ -16,6 +16,14 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Artificial Intelligence : Syllabus",
+        pdfLink: "books/aisys.pdf"
+    },
+    {
+        name: "Artificial Intelligence : Course Plan 21CSC206T AI_2324_even",
+        pdfLink: "books/aicp.pdf"
+    },
+    {
         name: "Database Management System : 21CSC205P -  DBMS syllabus",
         pdfLink: "books/dbmssys.pdf"
     },
@@ -306,6 +314,14 @@ const subjects = [
         },
     ] },
     { name: 'Artificial Intelligence', image: 'images/ai.jpg', books: [
+        {
+            name: "Syllabus",
+            pdfLink: "books/aisys.pdf"
+        },
+        {
+            name: "Course Plan 21CSC206T AI_2324_even",
+            pdfLink: "books/aicp.pdf"
+        },
         {
             name: "Youtube Playlist Recommendation",
             pdfLink: "books/air.pdf"
