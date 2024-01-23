@@ -92,6 +92,10 @@ const books = [
         pdfLink: "books/cctsr.pdf"
     },
     {
+        name: "Social Engineering : Last Year Question Paper",
+        pdfLink: "books/seques.pdf"
+    },
+    {
         name: "Probability and Queueing Theory : Unit 1 - Handwritten Notes (ACADEMIC REGULATIONS – 2018)",
         pdfLink: "books/mathsunit12018.pdf"
     },
@@ -288,6 +292,10 @@ const subjects = [
         },
     ] },
     { name: 'Social Engineering', image: 'images/se.jpg', books: [
+        {
+            name: "Last Year Question Paper",
+            pdfLink: "books/seques.pdf"
+        },
         {
             name: "Youtube Video Recommendation",
             pdfLink: "books/ser.pdf"
