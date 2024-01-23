@@ -16,6 +16,10 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Design and Analysis of Algorithms (Lab) : Lab 2 - Linear search, Binary search",
+        pdfLink: "books/daaexp2.pdf"
+    },
+    {
         name: "Artificial Intelligence : Syllabus",
         pdfLink: "books/aisys.pdf"
     },
@@ -338,6 +342,10 @@ const subjects = [
         {
             name: "List of Lab Experiments",
             pdfLink: "books/list.pdf"
+        },
+        {
+            name: "Lab 2 - Linear search, Binary search",
+            pdfLink: "books/daaexp2.pdf"
         },
     ] },
     { name: 'Critical and Creative Thinking Skills', image: 'images/ccts.jpg', books: [
