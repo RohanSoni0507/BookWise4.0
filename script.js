@@ -44,6 +44,10 @@ const books = [
         pdfLink: "books/dbmssys.pdf"
     },
     {
+        name: "Database Management System : Course Plan 21CSC206T AI_2324_even",
+        pdfLink: "books/dbmscp.pdf"
+    },
+    {
         name: "Design and Analysis of Algorithms (Lab) : List of Lab Experiments",
         pdfLink: "books/list.pdf"
     },
@@ -294,6 +298,10 @@ const subjects = [
         },
     ] },
     { name: 'Database Management System', image: 'images/dms.jpg', books: [
+        {
+        name: "Database Management System : Course Plan 21CSC206T AI_2324_even",
+        pdfLink: "books/dbmscp.pdf"
+        },
         {
             name: "21CSC205P -  DBMS syllabus",
             pdfLink: "books/dbmssys.pdf"
