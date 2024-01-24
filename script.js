@@ -16,6 +16,18 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Artificial Intelligence : Text Book 1",
+        pdfLink: "books/tb1.pdf"
+    },
+    {
+        name: "Artificial Intelligence : Text Book 2",
+        pdfLink: "books/tb2.pdf"
+    },
+    {
+        name: "Artificial Intelligence : Text Book 3",
+        pdfLink: "books/tb3.pdf"
+    },
+    {
         name: "Design and Analysis of Algorithms (Lab) : Lab 2 - Linear search, Binary search",
         pdfLink: "books/daaexp2.pdf"
     },
@@ -283,12 +295,12 @@ const subjects = [
     ] },
     { name: 'Database Management System', image: 'images/dms.jpg', books: [
         {
-            name: "Youtube Playlist Recommendation",
-            pdfLink: "books/dbmsr.pdf"
-        },
-        {
             name: "21CSC205P -  DBMS syllabus",
             pdfLink: "books/dbmssys.pdf"
+        },
+        {
+            name: "Youtube Playlist Recommendation",
+            pdfLink: "books/dbmsr.pdf"
         },
     ] },
     { name: 'Social Engineering', image: 'images/se.jpg', books: [
@@ -326,6 +338,18 @@ const subjects = [
         },
     ] },
     { name: 'Artificial Intelligence', image: 'images/ai.jpg', books: [
+        {
+            name: "Text Book 1",
+            pdfLink: "books/tb1.pdf"
+        },
+        {
+            name: "Text Book 2",
+            pdfLink: "books/tb2.pdf"
+        },
+        {
+            name: "Text Book 3",
+            pdfLink: "books/tb3.pdf"
+        },
         {
             name: "Syllabus",
             pdfLink: "books/aisys.pdf"
