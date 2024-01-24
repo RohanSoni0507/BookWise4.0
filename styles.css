@@ -15,7 +15,7 @@ body {
 }
 
 footer {
-    margin-top: 6.5em;
+    margin-top: 7em;
     padding: 1px;
     text-align: center;
 }
@@ -119,8 +119,8 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #202225;
-    height: 50px;
+    background-color: transparent;
+    height: 40px;
 }
 
 footer a {
