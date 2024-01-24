@@ -299,7 +299,7 @@ const subjects = [
     ] },
     { name: 'Database Management System', image: 'images/dms.jpg', books: [
         {
-        name: "Database Management System : Course Plan 21CSC206T AI_2324_even",
+        name: "Course Plan 21CSC206T AI_2324_even",
         pdfLink: "books/dbmscp.pdf"
         },
         {
