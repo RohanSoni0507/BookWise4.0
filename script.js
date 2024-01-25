@@ -48,6 +48,10 @@ const books = [
         pdfLink: "books/dbmscp.pdf"
     },
     {
+        name: "Design and Analysis of Algorithms (Theory) : List of Books",
+        pdfLink: "books/daabooklist.pdf"
+    },
+    {
         name: "Design and Analysis of Algorithms (Lab) : List of Lab Experiments",
         pdfLink: "books/list.pdf"
     },
@@ -262,6 +266,10 @@ const subjects = [
         },
     ] },
     { name: 'Design and Analysis of Algorithms (Theory)', image: 'images/daa1.jpg', books: [
+        {
+            name: "List of Books",
+            pdfLink: "books/daabooklist.pdf"
+        },
         {
             name: "Youtube Playlist Recommendation",
             pdfLink: "books/daar.pdf"
