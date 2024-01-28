@@ -16,6 +16,10 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Database Management System : Unit - 1",
+        pdfLink: "books/dbmsu1.pdf"
+    },
+    {
         name: "Artificial Intelligence : Text Book 1",
         pdfLink: "books/tb1.pdf"
     },
@@ -306,6 +310,10 @@ const subjects = [
         },
     ] },
     { name: 'Database Management System', image: 'images/dms.jpg', books: [
+        {
+            name: "Database Management System : Unit - 1",
+            pdfLink: "books/dbmsu1.pdf"
+        },
         {
         name: "Course Plan 21CSC206T AI_2324_even",
         pdfLink: "books/dbmscp.pdf"
