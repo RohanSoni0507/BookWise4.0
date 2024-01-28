@@ -311,7 +311,7 @@ const subjects = [
     ] },
     { name: 'Database Management System', image: 'images/dms.jpg', books: [
         {
-            name: "Database Management System : Unit - 1",
+            name: "Unit - 1",
             pdfLink: "books/dbmsu1.pdf"
         },
         {
