@@ -40,6 +40,14 @@ const books = [
         pdfLink: "books/aisys.pdf"
     },
     {
+        name: "Design and Analysis of Algorithms : Syllabus",
+        pdfLink: "books/daasys.pdf"
+    },
+    {
+        name: "UHV-II : Universal Human Values – Understanding Harmony and Ethical Human Conduct : Syllabus",
+        pdfLink: "books/uhvsys.pdf"
+    },
+    {
         name: "Artificial Intelligence : Course Plan 21CSC206T AI_2324_even",
         pdfLink: "books/aicp.pdf"
     },
@@ -271,6 +279,10 @@ const subjects = [
     ] },
     { name: 'Design and Analysis of Algorithms (Theory)', image: 'images/daa1.jpg', books: [
         {
+            name: "Syllabus",
+            pdfLink: "books/daasys.pdf"
+        },
+        {
             name: "List of Books",
             pdfLink: "books/daabooklist.pdf"
         },
@@ -389,6 +401,10 @@ const subjects = [
     ] },
 
     { name: 'UHV-II: Universal Human Values – Understanding Harmony and Ethical Human Conduct', image: 'images/uhv.jpg', books: [
+        {
+            name: "Syllabus",
+            pdfLink: "books/uhvsys.pdf"
+        },
         {
             name: "Youtube Playlist Recommendation",
             pdfLink: "books/uhvr.pdf"
