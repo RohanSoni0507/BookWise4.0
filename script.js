@@ -20,7 +20,7 @@ const books = [
         pdfLink: "books/daaexp3.pdf"
     },
     {
-        name: "Probability and Queueing Theory : Unit - 1 Tutorial - 1  21MAB204T",
+        name: "Probability and Queueing Theory : Unit-1 Tutorial-1  21MAB204T",
         pdfLink: "books/pqtu1t1.pdf"
     },
     {
@@ -281,7 +281,7 @@ window.addEventListener('load', () => {
 const subjects = [
     { name: 'Probability and Queueing Theory', image: 'images/pqt.jpg', books: [
         {
-            name: "Unit - 1 Tutorial - 1  21MAB204T",
+            name: "Unit-1 Tutorial-1  21MAB204T",
             pdfLink: "books/pqtu1t1.pdf"
         },
         {
