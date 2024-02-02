@@ -16,6 +16,34 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Design and Analysis of Algorithms (Lab) - Lab 3 : Merge sort",
+        pdfLink: "books/daaexp3.pdf"
+    },
+    {
+        name: "Probability and Queueing Theory : Unit - 1 Tutorial - 1  21MAB204T",
+        pdfLink: "books/pqtu1t1.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Lab) - Lab 1a : Simple Algorithm-Insertion sort",
+        pdfLink: "books/daaexp1a.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Lab) - Lab 1b : Bubble Sort",
+        pdfLink: "books/daaexp1b.pdf"
+    },
+    {
+        name: "Probability and Queueing Theory : Hands on Practice - 21MAB301T",
+        pdfLink: "books/pqthp.pdf"
+    },
+    {
+        name: "Database Management System : Links for certification courses",
+        pdfLink: "books/dbmscc.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Lab) : OBSERVATION NOTEBOOK RUBRICS",
+        pdfLink: "books/daarub.pdf"
+    },
+    {
         name: "Database Management System : Unit - 1",
         pdfLink: "books/dbmsu1.pdf"
     },
@@ -253,6 +281,14 @@ window.addEventListener('load', () => {
 const subjects = [
     { name: 'Probability and Queueing Theory', image: 'images/pqt.jpg', books: [
         {
+            name: "Unit - 1 Tutorial - 1  21MAB204T",
+            pdfLink: "books/pqtu1t1.pdf"
+        },
+        {
+            name: "Hands on Practice - 21MAB301T",
+            pdfLink: "books/pqthp.pdf"
+        },
+        {
             name: "Youtube Playlist Recommendation",
             pdfLink: "books/pqtr.pdf"
         },
@@ -322,6 +358,10 @@ const subjects = [
         },
     ] },
     { name: 'Database Management System', image: 'images/dms.jpg', books: [
+        {
+            name: "Links for certification courses",
+            pdfLink: "books/dbmscc.pdf"
+        },
         {
             name: "Unit - 1",
             pdfLink: "books/dbmsu1.pdf"
@@ -412,12 +452,28 @@ const subjects = [
     ] },
     { name: 'Design and Analysis of Algorithms (Lab)', image: 'images/daa2.jpg', books: [
         {
-            name: "List of Lab Experiments",
-            pdfLink: "books/list.pdf"
+            name: "Lab 3 : Merge sort",
+            pdfLink: "books/daaexp3.pdf"
         },
         {
             name: "Lab 2 - Linear search, Binary search",
             pdfLink: "books/daaexp2.pdf"
+        },
+        {
+            name: "Lab 1a : Simple Algorithm-Insertion sort",
+            pdfLink: "books/daaexp1a.pdf"
+        },
+        {
+            name: "Lab 1b : Bubble Sort",
+            pdfLink: "books/daaexp1b.pdf"
+        },
+        {
+            name: "OBSERVATION NOTEBOOK RUBRICS",
+            pdfLink: "books/daarub.pdf"
+        },
+        {
+            name: "List of Lab Experiments",
+            pdfLink: "books/list.pdf"
         },
     ] },
     { name: 'Critical and Creative Thinking Skills', image: 'images/ccts.jpg', books: [
