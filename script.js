@@ -16,6 +16,10 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Artificial Intelligence : Unit 1",
+        pdfLink: "books/aiu1.pdf"
+    },
+    {
         name: "Design and Analysis of Algorithms (Lab) - Lab 3 : Merge sort",
         pdfLink: "books/daaexp3.pdf"
     },
@@ -414,6 +418,10 @@ const subjects = [
         },
     ] },
     { name: 'Artificial Intelligence', image: 'images/ai.jpg', books: [
+        {
+            name: "Unit 1",
+            pdfLink: "books/aiu1.pdf"
+        },
         {
             name: "Text Book 1",
             pdfLink: "books/tb1.pdf"
