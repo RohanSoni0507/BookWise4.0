@@ -385,7 +385,7 @@ const subjects = [
     ] },
     { name: 'Internet of Things', image: 'images/iot.jpg', books: [
         {
-        name: "Internet of Things : Unit 1 - Introduction to IOT",
+        name: "Unit 1 - Introduction to IOT",
         pdfLink: "books/iotu1.pdf"
         },
         {
