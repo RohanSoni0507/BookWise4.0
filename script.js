@@ -16,6 +16,10 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Internet of Things : Unit 1 - Introduction to IOT",
+        pdfLink: "books/iotu1.pdf"
+    },
+    {
         name: "Artificial Intelligence : Unit 1",
         pdfLink: "books/aiu1.pdf"
     },
@@ -380,6 +384,10 @@ const subjects = [
         },
     ] },
     { name: 'Internet of Things', image: 'images/iot.jpg', books: [
+        {
+        name: "Internet of Things : Unit 1 - Introduction to IOT",
+        pdfLink: "books/iotu1.pdf"
+        },
         {
             name: "Youtube Playlist Recommendation",
             pdfLink: "books/iotr.pdf"
