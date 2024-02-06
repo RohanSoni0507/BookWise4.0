@@ -20,6 +20,22 @@ const books = [
         pdfLink: "books/daaexp4.pdf"
     },
     {
+        name: "Design and Analysis of Algorithms (Nptel) : Week 3 Programming Assignment - Frog Jumping",
+        pdfLink: "books/daanptelp3.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Nptel) : Week 2 Programming Assignment - Moving Intervals",
+        pdfLink: "books/daanptelp2.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Nptel) : Week 2 Quiz",
+        pdfLink: "books/daanptelq2.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Nptel) : Week 1 Quiz",
+        pdfLink: "books/daanptelq1.pdf"
+    },
+    {
         name: "Internet of Things : Unit 1 - Introduction to IOT",
         pdfLink: "books/iotu1.pdf"
     },
@@ -528,6 +544,24 @@ const subjects = [
         {
             name: "Youtube Video Recommendation",
             pdfLink: "books/cctsr.pdf"
+        },
+    ] },
+    { name: 'Design and Analysis of Algorithms (Nptel)', image: 'images/daanptel.jpg', books: [
+        {
+            name: "Week 3 Programming Assignment - Frog Jumping",
+            pdfLink: "books/daanptelp3.pdf"
+        },
+        {
+            name: "Week 2 Programming Assignment - Moving Intervals",
+            pdfLink: "books/daanptelp2.pdf"
+        },
+        {
+            name: "Week 2 Quiz",
+            pdfLink: "books/daanptelq2.pdf"
+        },
+        {
+            name: "Week 1 Quiz",
+            pdfLink: "books/daanptelq1.pdf"
         },
     ] },
     { name: 'Course Curriculum', image: 'images/cc.jpg', books: [
