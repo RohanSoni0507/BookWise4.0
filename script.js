@@ -16,6 +16,10 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Design and Analysis of Algorithms (Lab) - Lab 4 : Quick Sort",
+        pdfLink: "books/daaexp4.pdf"
+    },
+    {
         name: "Internet of Things : Unit 1 - Introduction to IOT",
         pdfLink: "books/iotu1.pdf"
     },
@@ -24,7 +28,7 @@ const books = [
         pdfLink: "books/aiu1.pdf"
     },
     {
-        name: "Design and Analysis of Algorithms (Lab) - Lab 3 : Merge sort",
+        name: "Design and Analysis of Algorithms (Lab) - Lab 3 : Merge Sort",
         pdfLink: "books/daaexp3.pdf"
     },
     {
@@ -492,7 +496,11 @@ const subjects = [
     ] },
     { name: 'Design and Analysis of Algorithms (Lab)', image: 'images/daa2.jpg', books: [
         {
-            name: "Lab 3 : Merge sort",
+            name: "Lab 4 : Quick Sort",
+            pdfLink: "books/daaexp4.pdf"
+        },
+        {
+            name: "Lab 3 : Merge Sort",
             pdfLink: "books/daaexp3.pdf"
         },
         {
