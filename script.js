@@ -16,6 +16,10 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Critical and Creative Thinking Skills : CCTS - Student's copy",
+        pdfLink: "books/cctssc.pdf"
+    },
+    {
         name: "Design and Analysis of Algorithms (Lab) - Lab 4 : Quick Sort",
         pdfLink: "books/daaexp4.pdf"
     },
@@ -541,6 +545,10 @@ const subjects = [
         },
     ] },
     { name: 'Critical and Creative Thinking Skills', image: 'images/ccts.jpg', books: [
+        {
+            name: "CCTS - Student's copy",
+            pdfLink: "books/cctssc.pdf"
+        },
         {
             name: "Youtube Video Recommendation",
             pdfLink: "books/cctsr.pdf"
