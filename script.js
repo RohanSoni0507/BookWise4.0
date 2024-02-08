@@ -16,6 +16,10 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Probability and Queueing Theory : Hands on Practice - QP - 21MAB204T",
+        pdfLink: "books/pqthp2.pdf"
+    },
+    {
         name: "Critical and Creative Thinking Skills : CCTS - Student's copy",
         pdfLink: "books/cctssc.pdf"
     },
@@ -324,6 +328,10 @@ window.addEventListener('load', () => {
 
 const subjects = [
     { name: 'Probability and Queueing Theory', image: 'images/pqt.jpg', books: [
+        {
+            name: "Hands on Practice - QP - 21MAB204T",
+            pdfLink: "books/pqthp2.pdf"
+        },
         {
             name: "PQT - Book - Veerarajan",
             pdfLink: "books/pqtbook1.pdf"
