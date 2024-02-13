@@ -16,6 +16,14 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Design and Analysis of Algorithms (Nptel) : Week 4 Programming Assignment - Moving Intervals",
+        pdfLink: "books/daanptelp4.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Nptel) : Week 3 Quiz",
+        pdfLink: "books/daanptelq3.pdf"
+    },
+    {
         name: "Probability and Queueing Theory : Hands on Practice - QP - 21MAB204T - Solutions",
         pdfLink: "books/pqthp2ans.pdf"
     },
@@ -667,6 +675,14 @@ const subjects = [
         },
     ] },
     { name: 'Design and Analysis of Algorithms (Nptel)', image: 'images/daanptel.jpg', books: [
+        {
+            name: "Week 4 Programming Assignment - Moving Intervals",
+            pdfLink: "books/daanptelp4.pdf"
+        },
+        {
+            name: "Week 3 Quiz",
+            pdfLink: "books/daanptelq3.pdf"
+        },
         {
             name: "Week 3 Programming Assignment - Frog Jumping",
             pdfLink: "books/daanptelp3.pdf"
