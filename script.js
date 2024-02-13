@@ -24,6 +24,46 @@ const books = [
         pdfLink: "books/daaexp4.pdf"
     },
     {
+        name: "Design and Analysis of Algorithms (Theory) - UNIT I : INTRODUCTION TO ALGORITHM DESIGN",
+        pdfLink: "books/daau1.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Lab) - DAA Elab 1",
+        pdfLink: "books/daaelab.pdf"
+    },
+    {
+        name: "Internet of Things : Unit 2 - Introduction-to-IoT-Access-Technologies final",
+        pdfLink: "books/iotu2.pdf"
+    },
+    {
+        name: "Internet of Things : BOOK-1-IoT Fundamentals",
+        pdfLink: "books/iotbook1.pdf"
+    },
+    {
+        name: "Critical and Creative Thinking Skills : SYLLOGISMS",
+        pdfLink: "books/cctssyl.pdf"
+    },
+    {
+        name: "Critical and Creative Thinking Skills : SET THEORY",
+        pdfLink: "books/cctsst.pdf"
+    },
+    {
+        name: "Probability and Queueing Theory : Unit 1-21MAB204T notes",
+        pdfLink: "books/pqtunit1n.pdf"
+    },
+    {
+        name: "Probability and Queueing Theory : PQT-Module 1-Lecture Notes",
+        pdfLink: "books/pqtunit1ln.pdf"
+    },
+    {
+        name: "Probability and Queueing Theory : Random Variables",
+        pdfLink: "books/pqtrv.pdf"
+    },
+    {
+        name: "Probability and Queueing Theory : MGF",
+        pdfLink: "books/pqtmgf.pdf"
+    },
+    {
         name: "Probability and Queueing Theory : LESSON PLAN-21MAB204T (2023-2024)(Signed)",
         pdfLink: "books/pqtlp.pdf"
     },
@@ -345,6 +385,22 @@ const subjects = [
             pdfLink: "books/pqthp2ans.pdf"
         },
         {
+            name: "Unit 1-21MAB204T notes",
+            pdfLink: "books/pqtunit1n.pdf"
+        },
+        {
+            name: "PQT-Module 1-Lecture Notes",
+            pdfLink: "books/pqtunit1ln.pdf"
+        },
+        {
+            name: "Random Variables",
+            pdfLink: "books/pqtrv.pdf"
+        },
+        {
+            name: "MGF",
+            pdfLink: "books/pqtmgf.pdf"
+        },
+        {
             name: "LESSON PLAN-21MAB204T (2023-2024)(Signed)",
             pdfLink: "books/pqtlp.pdf"
         },
@@ -399,6 +455,10 @@ const subjects = [
     ] },
     { name: 'Design and Analysis of Algorithms (Theory)', image: 'images/daa1.jpg', books: [
         {
+            name: "UNIT I : INTRODUCTION TO ALGORITHM DESIGN",
+            pdfLink: "books/daau1.pdf"
+        },
+        {
             name: "Syllabus",
             pdfLink: "books/daasys.pdf"
         },
@@ -436,6 +496,14 @@ const subjects = [
         },
     ] },
     { name: 'Internet of Things', image: 'images/iot.jpg', books: [
+        {
+            name: "BOOK-1-IoT Fundamentals",
+            pdfLink: "books/iotbook1.pdf"
+        },
+        {
+            name: "Unit 2 - Introduction-to-IoT-Access-Technologies final",
+            pdfLink: "books/iotu2.pdf"
+        },
         {
         name: "Unit 1 - Introduction to IOT",
         pdfLink: "books/iotu1.pdf"
@@ -548,6 +616,10 @@ const subjects = [
             pdfLink: "books/daaexp4.pdf"
         },
         {
+            name: "Design and Analysis of Algorithms (Lab) - DAA Elab 1",
+            pdfLink: "books/daaelab.pdf"
+        },
+        {
             name: "Lab 4 : Quick Sort",
             pdfLink: "books/daaexp4.pdf"
         },
@@ -577,6 +649,14 @@ const subjects = [
         },
     ] },
     { name: 'Critical and Creative Thinking Skills', image: 'images/ccts.jpg', books: [
+        {
+            name: "SYLLOGISMS",
+            pdfLink: "books/cctssyl.pdf"
+        },
+        {
+            name: "SET THEORY",
+            pdfLink: "books/cctsst.pdf"
+        },
         {
             name: "CCTS - Student's copy",
             pdfLink: "books/cctssc.pdf"
