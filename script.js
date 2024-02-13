@@ -16,6 +16,10 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Probability and Queueing Theory : Hands on Practice - QP - 21MAB204T - Solutions",
+        pdfLink: "books/pqthp2ans.pdf"
+    },
+    {
         name: "Design and Analysis of Algorithms (Lab) - Lab 5 : Strassen Matrix multiplication",
         pdfLink: "books/daaexp4.pdf"
     },
@@ -336,6 +340,10 @@ window.addEventListener('load', () => {
 
 const subjects = [
     { name: 'Probability and Queueing Theory', image: 'images/pqt.jpg', books: [
+        {
+            name: "Hands on Practice - QP - 21MAB204T - Solutions",
+            pdfLink: "books/pqthp2ans.pdf"
+        },
         {
             name: "LESSON PLAN-21MAB204T (2023-2024)(Signed)",
             pdfLink: "books/pqtlp.pdf"
