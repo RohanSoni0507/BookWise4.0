@@ -29,7 +29,7 @@ const books = [
     },
     {
         name: "Design and Analysis of Algorithms (Lab) - Lab 5 : Strassen Matrix multiplication",
-        pdfLink: "books/daaexp4.pdf"
+        pdfLink: "books/daaexp5.pdf"
     },
     {
         name: "Design and Analysis of Algorithms (Theory) - UNIT I : INTRODUCTION TO ALGORITHM DESIGN",
@@ -621,7 +621,7 @@ const subjects = [
     { name: 'Design and Analysis of Algorithms (Lab)', image: 'images/daa2.jpg', books: [
         {
             name: "Lab 5 : Strassen Matrix multiplication",
-            pdfLink: "books/daaexp4.pdf"
+            pdfLink: "books/daaexp5.pdf"
         },
         {
             name: "Design and Analysis of Algorithms (Lab) - DAA Elab 1",
