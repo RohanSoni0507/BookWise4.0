@@ -16,6 +16,14 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Artificial Intelligence : Unit 1 Handwritten Notes",
+        pdfLink: "books/aihu1#rs.pdf"
+    },
+    {
+        name: "Probability and Queueing Theory : Unit-1 Tutorial-1  21MAB204T Solutions",
+        pdfLink: "books/pqtu1t1sol#rs.pdf"
+    },
+    {
         name: "Design and Analysis of Algorithms (Theory) - Closest pair problem",
         pdfLink: "books/daacpp#rs.pdf"
     },
@@ -461,6 +469,10 @@ window.addEventListener('load', () => {
 const subjects = [
     { name: 'Probability and Queueing Theory', image: 'images/pqt.jpg', books: [
         {
+            name: "Unit-1 Tutorial-1  21MAB204T Solutions",
+            pdfLink: "books/pqtu1t1sol#rs.pdf"
+        },
+        {
             name: "Revised handout 21MAB204T-PQT",
             pdfLink: "books/pqtrevho#rs.pdf"
         },
@@ -722,6 +734,10 @@ const subjects = [
         },
     ] },
     { name: 'Artificial Intelligence', image: 'images/ai.jpg', books: [
+        {
+            name: "Unit 1 Handwritten Notes",
+            pdfLink: "books/aihu1#rs.pdf"
+        },
         {
             name: "Unit 1",
             pdfLink: "books/aiu1.pdf"
