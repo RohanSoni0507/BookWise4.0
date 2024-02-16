@@ -16,6 +16,50 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Probability and Queueing Theory : Revised handout 21MAB204T-PQT",
+        pdfLink: "books/pqtrevho#rs.pdf"
+    },
+    {
+        name: "Social Engineering : SE Multiple Choice Question Bank",
+        pdfLink: "books/semcqb#rs.pdf"
+    },
+    {
+        name: "Social Engineering : 18PDH103T 13.12.2023 AN",
+        pdfLink: "books/seqb1#rs.pdf"
+    },
+    {
+        name: "Social Engineering : 18PDH103T 07.11.2023 AN",
+        pdfLink: "books/seqb2#rs.pdf"
+    },
+    {
+        name: "Social Engineering : 21PDH201T 27.05.2023 AN",
+        pdfLink: "books/seqb3#rs.pdf"
+    },
+    {
+        name: "Social Engineering : 21PDH201T 06.01.2024 AN",
+        pdfLink: "books/seqb4#rs.pdf"
+    },
+    {
+        name: "Social Engineering : 18PDH103TR 04-01-2024 AN-1",
+        pdfLink: "books/seqb5#rs.pdf"
+    },
+    {
+        name: "Social Engineering : 18PDH103TR 04-01-2024 AN",
+        pdfLink: "books/seqb6#rs.pdf"
+    },
+    {
+        name: "Social Engineering : 18PDH103T 25.05.2023 AN",
+        pdfLink: "books/seqb7#rs.pdf"
+    },
+    {
+        name: "Social Engineering : SE Curriculum & Syllabus-2021 - FINAL(2)",
+        pdfLink: "books/sesys2021#rs.pdf"
+    },
+    {
+        name: "Social Engineering : Updated-All units",
+        pdfLink: "books/seallunits#rs.pdf"
+    },
+    {
         name: "Design and Analysis of Algorithms (Nptel) : Week 4 Programming Assignment - Moving Intervals",
         pdfLink: "books/daanptelp4.pdf"
     },
@@ -389,6 +433,10 @@ window.addEventListener('load', () => {
 const subjects = [
     { name: 'Probability and Queueing Theory', image: 'images/pqt.jpg', books: [
         {
+            name: "Revised handout 21MAB204T-PQT",
+            pdfLink: "books/pqtrevho#rs.pdf"
+        },
+        {
             name: "Hands on Practice - QP - 21MAB204T - Solutions",
             pdfLink: "books/pqthp2ans.pdf"
         },
@@ -544,6 +592,46 @@ const subjects = [
         },
     ] },
     { name: 'Social Engineering', image: 'images/se.jpg', books: [
+        {
+            name: "SE Multiple Choice Question Bank",
+            pdfLink: "books/semcqb#rs.pdf"
+        },
+        {
+            name: "18PDH103T 13.12.2023 AN",
+            pdfLink: "books/seqb1#rs.pdf"
+        },
+        {
+            name: "18PDH103T 07.11.2023 AN",
+            pdfLink: "books/seqb2#rs.pdf"
+        },
+        {
+            name: "21PDH201T 27.05.2023 AN",
+            pdfLink: "books/seqb3#rs.pdf"
+        },
+        {
+            name: "21PDH201T 06.01.2024 AN",
+            pdfLink: "books/seqb4#rs.pdf"
+        },
+        {
+            name: "18PDH103TR 04-01-2024 AN-1",
+            pdfLink: "books/seqb5#rs.pdf"
+        },
+        {
+            name: "18PDH103TR 04-01-2024 AN",
+            pdfLink: "books/seqb6#rs.pdf"
+        },
+        {
+            name: "18PDH103T 25.05.2023 AN",
+            pdfLink: "books/seqb7#rs.pdf"
+        },
+        {
+            name: "SE Curriculum & Syllabus-2021 - FINAL(2)",
+            pdfLink: "books/sesys2021#rs.pdf"
+        },
+        {
+            name: "Updated-All units",
+            pdfLink: "books/seallunits#rs.pdf"
+        },
         {
             name: "Last Year Question Paper",
             pdfLink: "books/seques.pdf"
