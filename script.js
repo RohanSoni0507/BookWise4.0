@@ -16,6 +16,34 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Design and Analysis of Algorithms (Theory) - UNIT I : INTRODUCTION TO ALGORITHM DESIGN",
+        pdfLink: "books/daau1.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Theory) - UNIT I : INTRODUCTION TO ALGORITHM DESIGN",
+        pdfLink: "books/daau1.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Theory) - UNIT I : INTRODUCTION TO ALGORITHM DESIGN",
+        pdfLink: "books/daau1.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Theory) - Divide and conquer Maximum sub array",
+        pdfLink: "books/daadacmsa#rs.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Theory) - UNIT II- Session 9 to 15",
+        pdfLink: "books/daau2s915#rs.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Theory) - UNIT I- Session 1 to 8",
+        pdfLink: "books/daau1s18#rs.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Theory) - DAA unit 1 notes",
+        pdfLink: "books/daau1hn#rs.pdf"
+    },
+    {
         name: "Probability and Queueing Theory : Revised handout 21MAB204T-PQT",
         pdfLink: "books/pqtrevho#rs.pdf"
     },
