@@ -16,16 +16,16 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
-        name: "Design and Analysis of Algorithms (Theory) - UNIT I : INTRODUCTION TO ALGORITHM DESIGN",
-        pdfLink: "books/daau1.pdf"
+        name: "Design and Analysis of Algorithms (Theory) - Closest pair problem",
+        pdfLink: "books/daacpp#rs.pdf"
     },
     {
-        name: "Design and Analysis of Algorithms (Theory) - UNIT I : INTRODUCTION TO ALGORITHM DESIGN",
-        pdfLink: "books/daau1.pdf"
+        name: "Design and Analysis of Algorithms (Theory) - Closest Pair of Points using Divide and Conquer algorithm",
+        pdfLink: "books/daaucpdac#rs.pdf"
     },
     {
-        name: "Design and Analysis of Algorithms (Theory) - UNIT I : INTRODUCTION TO ALGORITHM DESIGN",
-        pdfLink: "books/daau1.pdf"
+        name: "Design and Analysis of Algorithms (Theory) - Maximum sub array",
+        pdfLink: "books/daamsa#rs.pdf"
     },
     {
         name: "Design and Analysis of Algorithms (Theory) - Divide and conquer Maximum sub array",
@@ -538,6 +538,34 @@ const subjects = [
         },
     ] },
     { name: 'Design and Analysis of Algorithms (Theory)', image: 'images/daa1.jpg', books: [
+        {
+            name: "Closest pair problem",
+            pdfLink: "books/daacpp#rs.pdf"
+        },
+        {
+            name: "Closest Pair of Points using Divide and Conquer algorithm",
+            pdfLink: "books/daaucpdac#rs.pdf"
+        },
+        {
+            name: "Maximum sub array",
+            pdfLink: "books/daamsa#rs.pdf"
+        },
+        {
+            name: "Divide and conquer Maximum sub array",
+            pdfLink: "books/daadacmsa#rs.pdf"
+        },
+        {
+            name: "UNIT II- Session 9 to 15",
+            pdfLink: "books/daau2s915#rs.pdf"
+        },
+        {
+            name: "UNIT I- Session 1 to 8",
+            pdfLink: "books/daau1s18#rs.pdf"
+        },
+        {
+            name: "DAA unit 1 notes",
+            pdfLink: "books/daau1hn#rs.pdf"
+        },
         {
             name: "UNIT I : INTRODUCTION TO ALGORITHM DESIGN",
             pdfLink: "books/daau1.pdf"
