@@ -21,79 +21,79 @@ const books = [
     },
     {
         name: "Probability and Queueing Theory : Unit-1 Tutorial-1  21MAB204T Solutions",
-        pdfLink: "books/pqtu1t1sol#rs.pdf"
+        pdfLink: "books/pqtu1t1solrs.pdf"
     },
     {
         name: "Design and Analysis of Algorithms (Theory) - Closest pair problem",
-        pdfLink: "books/daacpp#rs.pdf"
+        pdfLink: "books/daacpprs.pdf"
     },
     {
         name: "Design and Analysis of Algorithms (Theory) - Closest Pair of Points using Divide and Conquer algorithm",
-        pdfLink: "books/daaucpdac#rs.pdf"
+        pdfLink: "books/daaucpdacrs.pdf"
     },
     {
         name: "Design and Analysis of Algorithms (Theory) - Maximum sub array",
-        pdfLink: "books/daamsa#rs.pdf"
+        pdfLink: "books/daamsars.pdf"
     },
     {
         name: "Design and Analysis of Algorithms (Theory) - Divide and conquer Maximum sub array",
-        pdfLink: "books/daadacmsa#rs.pdf"
+        pdfLink: "books/daadacmsars.pdf"
     },
     {
         name: "Design and Analysis of Algorithms (Theory) - UNIT II- Session 9 to 15",
-        pdfLink: "books/daau2s915#rs.pdf"
+        pdfLink: "books/daau2s915rs.pdf"
     },
     {
         name: "Design and Analysis of Algorithms (Theory) - UNIT I- Session 1 to 8",
-        pdfLink: "books/daau1s18#rs.pdf"
+        pdfLink: "books/daau1s18rs.pdf"
     },
     {
         name: "Design and Analysis of Algorithms (Theory) - DAA unit 1 notes",
-        pdfLink: "books/daau1hn#rs.pdf"
+        pdfLink: "books/daau1hnrs.pdf"
     },
     {
         name: "Probability and Queueing Theory : Revised handout 21MAB204T-PQT",
-        pdfLink: "books/pqtrevho#rs.pdf"
+        pdfLink: "books/pqtrevhors.pdf"
     },
     {
         name: "Social Engineering : SE Multiple Choice Question Bank",
-        pdfLink: "books/semcqb#rs.pdf"
+        pdfLink: "books/semcqbrs.pdf"
     },
     {
         name: "Social Engineering : 18PDH103T 13.12.2023 AN",
-        pdfLink: "books/seqb1#rs.pdf"
+        pdfLink: "books/seqb1rs.pdf"
     },
     {
         name: "Social Engineering : 18PDH103T 07.11.2023 AN",
-        pdfLink: "books/seqb2#rs.pdf"
+        pdfLink: "books/seqb2rs.pdf"
     },
     {
         name: "Social Engineering : 21PDH201T 27.05.2023 AN",
-        pdfLink: "books/seqb3#rs.pdf"
+        pdfLink: "books/seqb3rs.pdf"
     },
     {
         name: "Social Engineering : 21PDH201T 06.01.2024 AN",
-        pdfLink: "books/seqb4#rs.pdf"
+        pdfLink: "books/seqb4rs.pdf"
     },
     {
         name: "Social Engineering : 18PDH103TR 04-01-2024 AN-1",
-        pdfLink: "books/seqb5#rs.pdf"
+        pdfLink: "books/seqb5rs.pdf"
     },
     {
         name: "Social Engineering : 18PDH103TR 04-01-2024 AN",
-        pdfLink: "books/seqb6#rs.pdf"
+        pdfLink: "books/seqb6rs.pdf"
     },
     {
         name: "Social Engineering : 18PDH103T 25.05.2023 AN",
-        pdfLink: "books/seqb7#rs.pdf"
+        pdfLink: "books/seqb7rs.pdf"
     },
     {
         name: "Social Engineering : SE Curriculum & Syllabus-2021 - FINAL(2)",
-        pdfLink: "books/sesys2021#rs.pdf"
+        pdfLink: "books/sesys2021rs.pdf"
     },
     {
         name: "Social Engineering : Updated-All units",
-        pdfLink: "books/seallunits#rs.pdf"
+        pdfLink: "books/seallunitsrs.pdf"
     },
     {
         name: "Design and Analysis of Algorithms (Nptel) : Week 4 Programming Assignment - Moving Intervals",
@@ -470,11 +470,11 @@ const subjects = [
     { name: 'Probability and Queueing Theory', image: 'images/pqt.jpg', books: [
         {
             name: "Unit-1 Tutorial-1  21MAB204T Solutions",
-            pdfLink: "books/pqtu1t1sol#rs.pdf"
+            pdfLink: "books/pqtu1t1solrs.pdf"
         },
         {
             name: "Revised handout 21MAB204T-PQT",
-            pdfLink: "books/pqtrevho#rs.pdf"
+            pdfLink: "books/pqtrevhors.pdf"
         },
         {
             name: "Hands on Practice - QP - 21MAB204T - Solutions",
@@ -552,31 +552,31 @@ const subjects = [
     { name: 'Design and Analysis of Algorithms (Theory)', image: 'images/daa1.jpg', books: [
         {
             name: "Closest pair problem",
-            pdfLink: "books/daacpp#rs.pdf"
+            pdfLink: "books/daacpprs.pdf"
         },
         {
             name: "Closest Pair of Points using Divide and Conquer algorithm",
-            pdfLink: "books/daaucpdac#rs.pdf"
+            pdfLink: "books/daaucpdacrs.pdf"
         },
         {
             name: "Maximum sub array",
-            pdfLink: "books/daamsa#rs.pdf"
+            pdfLink: "books/daamsars.pdf"
         },
         {
             name: "Divide and conquer Maximum sub array",
-            pdfLink: "books/daadacmsa#rs.pdf"
+            pdfLink: "books/daadacmsars.pdf"
         },
         {
             name: "UNIT II- Session 9 to 15",
-            pdfLink: "books/daau2s915#rs.pdf"
+            pdfLink: "books/daau2s915rs.pdf"
         },
         {
             name: "UNIT I- Session 1 to 8",
-            pdfLink: "books/daau1s18#rs.pdf"
+            pdfLink: "books/daau1s18rs.pdf"
         },
         {
             name: "DAA unit 1 notes",
-            pdfLink: "books/daau1hn#rs.pdf"
+            pdfLink: "books/daau1hnrs.pdf"
         },
         {
             name: "UNIT I : INTRODUCTION TO ALGORITHM DESIGN",
@@ -662,43 +662,43 @@ const subjects = [
     { name: 'Social Engineering', image: 'images/se.jpg', books: [
         {
             name: "SE Multiple Choice Question Bank",
-            pdfLink: "books/semcqb#rs.pdf"
+            pdfLink: "books/semcqbrs.pdf"
         },
         {
             name: "18PDH103T 13.12.2023 AN",
-            pdfLink: "books/seqb1#rs.pdf"
+            pdfLink: "books/seqb1rs.pdf"
         },
         {
             name: "18PDH103T 07.11.2023 AN",
-            pdfLink: "books/seqb2#rs.pdf"
+            pdfLink: "books/seqb2rs.pdf"
         },
         {
             name: "21PDH201T 27.05.2023 AN",
-            pdfLink: "books/seqb3#rs.pdf"
+            pdfLink: "books/seqb3rs.pdf"
         },
         {
             name: "21PDH201T 06.01.2024 AN",
-            pdfLink: "books/seqb4#rs.pdf"
+            pdfLink: "books/seqb4rs.pdf"
         },
         {
             name: "18PDH103TR 04-01-2024 AN-1",
-            pdfLink: "books/seqb5#rs.pdf"
+            pdfLink: "books/seqb5rs.pdf"
         },
         {
             name: "18PDH103TR 04-01-2024 AN",
-            pdfLink: "books/seqb6#rs.pdf"
+            pdfLink: "books/seqb6rs.pdf"
         },
         {
             name: "18PDH103T 25.05.2023 AN",
-            pdfLink: "books/seqb7#rs.pdf"
+            pdfLink: "books/seqb7rs.pdf"
         },
         {
             name: "SE Curriculum & Syllabus-2021 - FINAL(2)",
-            pdfLink: "books/sesys2021#rs.pdf"
+            pdfLink: "books/sesys2021rs.pdf"
         },
         {
             name: "Updated-All units",
-            pdfLink: "books/seallunits#rs.pdf"
+            pdfLink: "books/seallunitsrs.pdf"
         },
         {
             name: "Last Year Question Paper",
