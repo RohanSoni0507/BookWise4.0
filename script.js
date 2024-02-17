@@ -17,7 +17,7 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 const books = [
     {
         name: "Artificial Intelligence : Unit 1 Handwritten Notes",
-        pdfLink: "books/aihu1#rs.pdf"
+        pdfLink: "books/aihu1rs.pdf"
     },
     {
         name: "Probability and Queueing Theory : Unit-1 Tutorial-1  21MAB204T Solutions",
@@ -736,7 +736,7 @@ const subjects = [
     { name: 'Artificial Intelligence', image: 'images/ai.jpg', books: [
         {
             name: "Unit 1 Handwritten Notes",
-            pdfLink: "books/aihu1#rs.pdf"
+            pdfLink: "books/aihu1rs.pdf"
         },
         {
             name: "Unit 1",
