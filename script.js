@@ -16,6 +16,10 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Design and Analysis of Algorithms (Theory) - Previous Year Question Paper",
+        pdfLink: "books/daapyqprs.pdf"
+    },
+    {
         name: "Database Management System : CT1 CLA T1 AnswerKey-Set C",
         pdfLink: "books/dbmsct1setc.pdf"
     },
@@ -558,6 +562,10 @@ const subjects = [
         },
     ] },
     { name: 'Design and Analysis of Algorithms (Theory)', image: 'images/daa1.jpg', books: [
+        {
+            name: "Previous Year Question Paper",
+            pdfLink: "books/daapyqprs.pdf"
+        },
         {
             name: "Closest pair problem",
             pdfLink: "books/daacpprs.pdf"
