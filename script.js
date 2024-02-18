@@ -16,6 +16,14 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Database Management System : CT1 CLA T1 AnswerKey-Set C",
+        pdfLink: "books/dbmsct1setc.pdf"
+    },
+    {
+        name: "Database Management System : CT1 CLA T1 AnswerKey-Set D",
+        pdfLink: "books/dbmsct1setd.pdf"
+    },
+    {
         name: "Artificial Intelligence : Unit 1 Handwritten Notes",
         pdfLink: "books/aihu1rs.pdf"
     },
@@ -638,6 +646,14 @@ const subjects = [
         },
     ] },
     { name: 'Database Management System', image: 'images/dms.jpg', books: [
+        {
+            name: "CT1 CLA T1 AnswerKey-Set C",
+            pdfLink: "books/dbmsct1setc.pdf"
+        },
+        {
+            name: "CT1 CLA T1 AnswerKey-Set D",
+            pdfLink: "books/dbmsct1setd.pdf"
+        },
         {
             name: "Links for certification courses",
             pdfLink: "books/dbmscc.pdf"
