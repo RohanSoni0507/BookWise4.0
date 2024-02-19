@@ -16,6 +16,22 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Internet of Things : Dieter Uckelmann, Mark Harrison, Florian Michahelles (auth.), Di - Architecting the Internet of Things ",
+        pdfLink: "books/iotbook2.pdf"
+    },
+    {
+        name: "Internet of Things : Jan Holler, Vlasios Tsiatsis, Catherine Mulligan, Stefan Avesand - From Machine-To-Machine to the Inter",
+        pdfLink: "books/iotbook3.pdf"
+    },
+    {
+        name: "Internet of Things : David Hanes And Gonzalo Salgueiro - Iot Fundamentals_ Networking Technologies, Protocols, And Use Case",
+        pdfLink: "books/iotbook4.pdf"
+    },
+    {
+        name: "Internet of Things : Arshdeep Bahga, Vijay Madisetti - Internet of Things_ A Hands-On Approach (2015, Universities Press (In",
+        pdfLink: "books/iotbook5.pdf"
+    },
+    {
         name: "Design and Analysis of Algorithms (Theory) - Previous Year Question Paper",
         pdfLink: "books/daapyqprs.pdf"
     },
@@ -636,6 +652,22 @@ const subjects = [
         },
     ] },
     { name: 'Internet of Things', image: 'images/iot.jpg', books: [
+        {
+            name: "Dieter Uckelmann, Mark Harrison, Florian Michahelles (auth.), Di - Architecting the Internet of Things ",
+            pdfLink: "books/iotbook2.pdf"
+        },
+        {
+            name: "Jan Holler, Vlasios Tsiatsis, Catherine Mulligan, Stefan Avesand - From Machine-To-Machine to the Inter",
+            pdfLink: "books/iotbook3.pdf"
+        },
+        {
+            name: "David Hanes And Gonzalo Salgueiro - Iot Fundamentals_ Networking Technologies, Protocols, And Use Case",
+            pdfLink: "books/iotbook4.pdf"
+        },
+        {
+            name: "Arshdeep Bahga, Vijay Madisetti - Internet of Things_ A Hands-On Approach (2015, Universities Press (In",
+            pdfLink: "books/iotbook5.pdf"
+        },
         {
             name: "BOOK-1-IoT Fundamentals",
             pdfLink: "books/iotbook1.pdf"
