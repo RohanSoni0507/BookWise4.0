@@ -16,6 +16,14 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Database Management System : 21CSC205P DBMS UNIT II",
+        pdfLink: "books/dbmsu2.pdf"
+    },
+    {
+        name: "Database Management System : Database Management Systems Book by Abraham Silberchatz",
+        pdfLink: "books/dbmsbook1.pdf"
+    },
+    {
         name: "Internet of Things : Dieter Uckelmann, Mark Harrison, Florian Michahelles (auth.), Di - Architecting the Internet of Things ",
         pdfLink: "books/iotbook2.pdf"
     },
@@ -686,6 +694,14 @@ const subjects = [
         },
     ] },
     { name: 'Database Management System', image: 'images/dms.jpg', books: [
+        {
+            name: "21CSC205P DBMS UNIT II",
+            pdfLink: "books/dbmsu2.pdf"
+        },
+        {
+            name: "Database Management Systems Book by Abraham Silberchatz",
+            pdfLink: "books/dbmsbook1.pdf"
+        },
         {
             name: "CT1 CLA T1 AnswerKey-Set C",
             pdfLink: "books/dbmsct1setc.pdf"
