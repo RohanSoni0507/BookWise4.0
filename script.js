@@ -16,6 +16,10 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Design and Analysis of Algorithms (Nptel) : Week 4 Quiz",
+        pdfLink: "books/daanptelq4rs.pdf"
+    },
+    {
         name: "Social Engineering : Overview on questions",
         pdfLink: "books/seooqrs.pdf"
     },
@@ -737,7 +741,7 @@ const subjects = [
     ] },
     { name: 'Social Engineering', image: 'images/se.jpg', books: [
         {
-            name: "Social Engineering : Overview on questions",
+            name: "Overview on questions",
             pdfLink: "books/seooqrs.pdf"
         },
         {
@@ -915,6 +919,10 @@ const subjects = [
         },
     ] },
     { name: 'Design and Analysis of Algorithms (Nptel)', image: 'images/daanptel.jpg', books: [
+        {
+            name: "Week 4 Quiz",
+            pdfLink: "books/daanptelq4rs.pdf"
+        },
         {
             name: "Week 4 Programming Assignment - Moving Intervals",
             pdfLink: "books/daanptelp4.pdf"
