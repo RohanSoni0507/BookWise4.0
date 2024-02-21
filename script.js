@@ -16,6 +16,10 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Social Engineering : Updated Unit 1 notes",
+        pdfLink: "books/seu1rs.pdf"
+    },
+    {
         name: "Design and Analysis of Algorithms (Nptel) : Week 4 Quiz",
         pdfLink: "books/daanptelq4rs.pdf"
     },
@@ -740,6 +744,10 @@ const subjects = [
         },
     ] },
     { name: 'Social Engineering', image: 'images/se.jpg', books: [
+        {
+            name: "Updated Unit 1 notes",
+            pdfLink: "books/seu1rs.pdf"
+        },
         {
             name: "Overview on questions",
             pdfLink: "books/seooqrs.pdf"
