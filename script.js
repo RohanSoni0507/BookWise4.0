@@ -16,6 +16,10 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Social Engineering : Overview on questions",
+        pdfLink: "books/seooqrs.pdf"
+    },
+    {
         name: "Database Management System : 21CSC205P DBMS UNIT II",
         pdfLink: "books/dbmsu2.pdf"
     },
@@ -732,6 +736,10 @@ const subjects = [
         },
     ] },
     { name: 'Social Engineering', image: 'images/se.jpg', books: [
+        {
+            name: "Social Engineering : Overview on questions",
+            pdfLink: "books/seooqrs.pdf"
+        },
         {
             name: "SE Multiple Choice Question Bank",
             pdfLink: "books/semcqbrs.pdf"
