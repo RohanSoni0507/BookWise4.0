@@ -16,6 +16,38 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
+        name: "Design and Analysis of Algorithms (Nptel) : Week 6 Programming Assignment - Milkman",
+        pdfLink: "books/daanptelp6.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Nptel) : Week 5 Quiz",
+        pdfLink: "books/daanptelq5.pdf"
+    },
+    {
+        name: "Artificial Intelligence : Set C-AM - Answer key",
+        pdfLink: "books/aict1anskeysetc.pdf"
+    },
+    {
+        name: "Artificial Intelligence : Set D-AM - Answer key",
+        pdfLink: "books/aict1anskeysetd.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Theory) : Set A- Answer key",
+        pdfLink: "books/daact1anskeyseta.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Theory) : Set B- Answer key",
+        pdfLink: "books/daact1anskeysetb.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Theory) : Set C- Answer key",
+        pdfLink: "books/daact1anskeysetc.pdf"
+    },
+    {
+        name: "Design and Analysis of Algorithms (Theory) : Set D- Answer key",
+        pdfLink: "books/daact1anskeysetd.pdf"
+    },
+    {
         name: "Social Engineering : Updated Unit 1 notes",
         pdfLink: "books/seu1rs.pdf"
     },
@@ -599,6 +631,22 @@ const subjects = [
     ] },
     { name: 'Design and Analysis of Algorithms (Theory)', image: 'images/daa1.jpg', books: [
         {
+            name: "Set A- Answer key",
+            pdfLink: "books/daact1anskeyseta.pdf"
+        },
+        {
+            name: "Set B- Answer key",
+            pdfLink: "books/daact1anskeysetb.pdf"
+        },
+        {
+            name: "Set C- Answer key",
+            pdfLink: "books/daact1anskeysetc.pdf"
+        },
+        {
+            name: "Set D- Answer key",
+            pdfLink: "books/daact1anskeysetd.pdf"
+        },
+        {
             name: "Previous Year Question Paper",
             pdfLink: "books/daapyqprs.pdf"
         },
@@ -827,6 +875,14 @@ const subjects = [
     ] },
     { name: 'Artificial Intelligence', image: 'images/ai.jpg', books: [
         {
+            name: "Set C-AM - Answer key",
+            pdfLink: "books/aict1anskeysetc.pdf"
+        },
+        {
+            name: "Set D-AM - Answer key",
+            pdfLink: "books/aict1anskeysetd.pdf"
+        },
+        {
             name: "Unit 1 Handwritten Notes",
             pdfLink: "books/aihu1rs.pdf"
         },
@@ -927,6 +983,14 @@ const subjects = [
         },
     ] },
     { name: 'Design and Analysis of Algorithms (Nptel)', image: 'images/daanptel.jpg', books: [
+        {
+            name: "Week 6 Programming Assignment - Milkman",
+            pdfLink: "books/daanptelp6.pdf"
+        },
+        {
+            name: "Week 5 Quiz",
+            pdfLink: "books/daanptelq5.pdf"
+        },
         {
             name: "Week 4 Quiz",
             pdfLink: "books/daanptelq4rs.pdf"
